@@ -30,7 +30,7 @@ Explore each of the available AI Solution Templates below.
 
 <div class="grid-container">
   <div class="grid-item">
-    <h3><a href="https://github.com/ambitus/aionz-st-document-intelligence-with-rhaiis-leveraging-ibm-spyre">Document Intelligence with Spyre/a></h3>
+    <h3><a href="https://github.com/ambitus/aionz-st-document-intelligence-with-rhaiis-leveraging-ibm-spyre">Document Intelligence with Spyre</a></h3>
     <a href="https://github.com/ambitus/aionz-st-document-intelligence-with-rhaiis-leveraging-ibm-spyre"><img src="./imgs/adobestock_521250684.jpeg"></a>
     <p>This solution template provides a reference implementation for running IBM Granite LLM inference on Red Hat AI Inference Server, leveraging IBM Spyre on an IBM Z environment.</p>
   </div>
